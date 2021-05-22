@@ -6,7 +6,7 @@
 
 This research project was the capstone for the Master of Science in Data Analytics from Western Governors University.
 
-This study will use messages written by the public on the social media network Twitter, or “tweets”, to gauge the public sentiment towards entities in the space industry to answer the question “Is there a significant difference in the sentiment expressed in tweets involving commercial entities compared to government agencies involved space exploration?”
+This study used messages written by the public on the social media network Twitter, or “tweets”, to gauge the public sentiment towards entities in the space industry to answer the question “Is there a significant difference in the sentiment expressed in tweets involving commercial entities compared to government agencies involved space exploration?”
 
 To accomplish this analysis, data was collected from Twitter for the companies SpaceX, Blue Origin, and Virgin Atlantic, and the National Aeronautics and Space Administration (NASA), the European Space Agency (ESA), and the Jet Propulsion Laboratory (JPL) government organizations.  Collected data raged over two years beginning in April 2019 through March 2021.  The tool used to gather data was [snscrape](https://github.com/JustAnotherArchivist/snscrape).
 
